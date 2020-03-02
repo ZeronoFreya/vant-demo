@@ -1,2 +1,2 @@
 # vant-demo
-vant bug演示
+vant bug  演示
